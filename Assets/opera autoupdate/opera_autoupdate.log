@@ -1,0 +1,4 @@
+[9300:13268:0511/141321.847:407462421:ERROR:ipc_thread_impl.cc(137)] Unable to create IPC as client!Pipe name used: oauc_task_pipec70f2ae03f5ca3f0fffc3e171ca3625f
+[9300:13900:0511/141321.861:407462437:WARNING:network_impl_win.cc(225)] [AU] Failed to resolve proxy auto config for https://autoupdate.geo.opera.com/ Err: 12006
+[9300:13900:0511/141323.620:407464187:WARNING:update_check_handler_impl_win.cc(75)] [AU] Task failure count : 0
+[9300:13900:0511/141323.621:407464187:INFO:protocol_impl.cc(831)] Main update resource available: false
